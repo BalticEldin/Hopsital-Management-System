@@ -1,0 +1,26 @@
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\bin\Debug\net8.0-windows\Hospital Management System.exe
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\bin\Debug\net8.0-windows\Hospital Management System.deps.json
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\bin\Debug\net8.0-windows\Hospital Management System.runtimeconfig.json
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\bin\Debug\net8.0-windows\Hospital Management System.dll
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\bin\Debug\net8.0-windows\Hospital Management System.pdb
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\obj\Debug\net8.0-windows\Hospital_Management_System.Dashboard.resources
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\obj\Debug\net8.0-windows\Hospital_Management_System.Form1.resources
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\obj\Debug\net8.0-windows\Hospital_Management_System.Properties.Resources.resources
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\obj\Debug\net8.0-windows\Hospital Management System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\obj\Debug\net8.0-windows\Hospital Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\obj\Debug\net8.0-windows\Hospital Management System.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\obj\Debug\net8.0-windows\Hospital Management System.AssemblyInfo.cs
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\obj\Debug\net8.0-windows\Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\obj\Debug\net8.0-windows\Hospital Management System.dll
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\obj\Debug\net8.0-windows\refint\Hospital Management System.dll
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\obj\Debug\net8.0-windows\Hospital Management System.pdb
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\obj\Debug\net8.0-windows\Hospital Management System.genruntimeconfig.cache
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\obj\Debug\net8.0-windows\ref\Hospital Management System.dll
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\obj\Debug\net8.0-windows\Hospital Management System.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Artijon\Hospital Management System\Hospital Management System\obj\Debug\net8.0-windows\Hospital.78AF1D08.Up2Date
